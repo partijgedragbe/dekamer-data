@@ -14,6 +14,10 @@ Unofficial and independent. See [NOTICE.md](NOTICE.md).
 
 Column documentation: [docs/schema.md](docs/schema.md).
 
+## Download
+
+You can download the data here directly from GitHub or from Zenodo [https://zenodo.org/records/23956627](https://zenodo.org/records/23956627).
+
 ## Citation
 
 See `CITATION.cff` (GitHub's "Cite this repository" button). Please cite the
