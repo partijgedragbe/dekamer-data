@@ -18,6 +18,8 @@ Column documentation: [docs/schema.md](docs/schema.md).
 
 You can download the data here directly from GitHub or from Zenodo [https://zenodo.org/records/23956627](https://zenodo.org/records/23956627).
 
+[![DOI](https://zenodo.org/badge/1432329037.svg)](https://zenodo.org/badge/latestdoi/1432329037)
+
 ## Citation
 
 See `CITATION.cff` (GitHub's "Cite this repository" button). Please cite the
