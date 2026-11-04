@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Belgian Chamber Data: parliamentary dossiers, votes, questions and speeches of the Belgian Chamber of Representatives"
+abstract: >-
+  Daily-updated, structured data scraped from official documents of the
+  Belgian Chamber of Representatives (dekamer.be): dossiers, plenary and
+  committee meetings, votes, questions and speech transcripts, in Parquet format.
+authors:
+  - family-names: "<Last name>"
+    given-names: "<First name>"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional
+license: CC-BY-4.0
+repository-code: "https://github.com/<you>/belgian-chamber-data"
+url: "https://github.com/<you>/belgian-chamber-data"
+doi: "10.5281/zenodo.<concept-id>"          # fill in after the first Zenodo upload
+version: "<snapshot, e.g. 2026-11>"
+date-released: "2026-11-01"
+keywords:
+  - Belgium
+  - parliament
+  - open data
+  - legislative data
+  - Parquet

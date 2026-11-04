@@ -1,0 +1,33 @@
+{
+  "title": "Belgian Chamber Data: dossiers, votes, questions and speeches of the Belgian Chamber of Representatives",
+  "upload_type": "dataset",
+  "description": "<p>Daily-updated, structured data scraped from official documents of the Belgian Chamber of Representatives (dekamer.be): dossiers, plenary and committee meetings, votes, questions and speech transcripts, as Parquet files.</p><p>Independent project, not affiliated with the Chamber. The CC BY 4.0 license covers the compilation (structure, cleaning, linking); the underlying texts come from official Chamber documents, see NOTICE.md in the repository.</p>",
+  "creators": [
+    {
+      "name": "Lastname, Firstname",
+      "affiliation": "Your affiliation (optional)",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Belgium",
+    "parliament",
+    "open data",
+    "legislative data",
+    "Parquet"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://www.dekamer.be",
+      "scheme": "url"
+    },
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "https://github.com/YOU/belgian-chamber-data",
+      "scheme": "url"
+    }
+  ]
+}
