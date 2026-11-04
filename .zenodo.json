@@ -1,0 +1,25 @@
+{
+  "title": "Belgian Chamber of Representatives Open Data: questions and speeches",
+  "upload_type": "dataset",
+  "description": "<p>Structured data compiled from official documents of the Belgian Chamber of Representatives (dekamer.be): questions and speech transcripts from plenary meetings and committee meetings, in Parquet format. Content is in Dutch and French.</p><p>Independent project, not affiliated with the Chamber. The CC BY 4.0 license covers the compilation (structure, cleaning, linking); the underlying texts come from official Chamber documents, see NOTICE.md in the repository.</p>",
+  "creators": [{ "name": "Partijgedrag België" }],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Belgium",
+    "parliament",
+    "Chamber of Representatives",
+    "Kamer van Volksvertegenwoordigers",
+    "Chambre des représentants",
+    "open data",
+    "legislative data",
+    "Parquet"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isDerivedFrom",
+      "identifier": "https://www.dekamer.be",
+      "scheme": "url"
+    }
+  ]
+}

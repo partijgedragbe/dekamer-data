@@ -28,5 +28,4 @@ public role, as published by the Chamber.
 
 ## Corrections and takedown
 
-To report errors or request removal of a record, open an issue or email
-info@kamerlens.be. Requests will be handled promptly.
+To report errors or request removal of a record, open an issue or email partijgedragbe@proton.me. Requests will be handled promptly.
